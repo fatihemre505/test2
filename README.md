@@ -11,3 +11,15 @@ test yazıldı
 
 
  using (OSGBDATAEntities db = new OSGBDATAEntities())
+ 
+ 
+ 
+ 
+  using (OSGBDATAEntities db = new OSGBDATAEntities())
+  
+  
+  
+   using (OSGBDATAEntities db = new OSGBDATAEntities())
+   
+   
+    using (OSGBDATAEntities db = new OSGBDATAEntities())
