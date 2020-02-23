@@ -8,3 +8,6 @@ test yazıldı
  
  
  commind yap
+
+
+ using (OSGBDATAEntities db = new OSGBDATAEntities())
