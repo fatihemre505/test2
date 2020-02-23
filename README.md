@@ -1,3 +1,4 @@
 # test2
 test yazıldı
- githuptan yazıldı. üserine eklendi.
+ githuptan yazıldı. üzerine eklendi.
+ test yazısı yazıldı.
