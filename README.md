@@ -2,3 +2,9 @@
 test yazıldı
  githuptan yazıldı. üzerine eklendi.
  test yazısı yazıldı.
+ 
+ 
+ 
+ 
+ 
+ commind yap
